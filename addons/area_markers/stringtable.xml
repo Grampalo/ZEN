@@ -12,6 +12,7 @@
             <Portuguese>Criar marcador de área</Portuguese>
             <Japanese>範囲マーカーを作成</Japanese>
             <Korean>영역 표시기 생성</Korean>
+            <Turkish>Alan İşareti Oluştur</Turkish>
         </Key>
         <Key ID="STR_ZEN_Area_Markers_EditAreaMarker">
             <English>EDIT AREA MARKER</English>
@@ -24,6 +25,7 @@
             <Portuguese>Editar marcador de área</Portuguese>
             <Japanese>範囲マーカーを編集</Japanese>
             <Korean>영역 표시기 편집</Korean>
+            <Turkish>Alan İşaretini Düzenle</Turkish>
         </Key>
         <Key ID="STR_ZEN_Area_Markers_PlaceOnMap">
             <English>Place On Map</English>
@@ -36,6 +38,7 @@
             <Portuguese>Coloque no mapa</Portuguese>
             <Japanese>マップ上に設置</Japanese>
             <Korean>지도에 배치</Korean>
+            <Turkish>Haritaya Koy</Turkish>
         </Key>
     </Package>
 </Project>
