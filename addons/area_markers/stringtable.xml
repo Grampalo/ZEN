@@ -14,6 +14,7 @@
             <Korean>영역 표시기 생성</Korean>
             <Chinesesimp>创建区域标记</Chinesesimp>
             <Chinese>創建區域標記</Chinese>
+            <Turkish>Alan İşareti Oluştur</Turkish>
         </Key>
         <Key ID="STR_ZEN_Area_Markers_EditAreaMarker">
             <English>EDIT AREA MARKER</English>
@@ -28,6 +29,7 @@
             <Korean>영역 표시기 편집</Korean>
             <Chinesesimp>编辑区域标记</Chinesesimp>
             <Chinese>編輯區域標記</Chinese>
+            <Turkish>Alan İşaretini Düzenle</Turkish>
         </Key>
         <Key ID="STR_ZEN_Area_Markers_PlaceOnMap">
             <English>Place On Map</English>
@@ -42,6 +44,7 @@
             <Korean>지도에 배치</Korean>
             <Chinesesimp>标记在地图上</Chinesesimp>
             <Chinese>標記在地圖上</Chinese>
+            <Turkish>Haritaya Yerleştir</Turkish>
         </Key>
     </Package>
 </Project>
