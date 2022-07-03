@@ -14,6 +14,7 @@
             <Korean>엔진</Korean>
             <Chinesesimp>引擎</Chinesesimp>
             <Chinese>引擎</Chinese>
+            <Turkish>Motor</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Lights">
             <English>Lights</English>
@@ -28,6 +29,7 @@
             <Korean>조명</Korean>
             <Chinesesimp>灯光</Chinesesimp>
             <Chinese>燈光</Chinese>
+            <Turkish>Işıklar</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_LockedForPlayers">
             <English>Locked For Players</English>
@@ -39,6 +41,7 @@
             <Chinesesimp>对玩家锁定</Chinesesimp>
             <Chinese>對玩家鎖定</Chinese>
             <Italian>Bloccato per i giocatori</Italian>
+            <Turkish>Oyuncular İçin Kilitli</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_PlateNumber">
             <English>Plate Number</English>
@@ -53,6 +56,7 @@
             <Korean>번호판 숫자</Korean>
             <Chinesesimp>车牌号</Chinesesimp>
             <Chinese>車牌號</Chinese>
+            <Turkish>Plaka</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_RespawnPosition">
             <English>Respawn Position</English>
@@ -64,6 +68,7 @@
             <Chinesesimp>重生位置</Chinesesimp>
             <Chinese>重生位置</Chinese>
             <Italian>Posizione di rigenerazione</Italian>
+            <Turkish>Yeniden Doğma Yeri</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_RespawnPosition_Tooltip">
             <English>Selects the side that is able to respawn on this object.</English>
@@ -75,6 +80,7 @@
             <Chinesesimp>选择能够在此物体上重生的一方。</Chinesesimp>
             <Chinese>選擇能夠在此物體上重生的一方。</Chinese>
             <Italian>Seleziona il lato che è in grado di rigenerarsi su questo oggetto.</Italian>
+            <Turkish>Burada Yeniden Doğacak Tarafı Seç</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_RespawnVehicle">
             <English>Respawn Vehicle</English>
@@ -84,6 +90,7 @@
             <Chinesesimp>重生载具</Chinesesimp>
             <Chinese>重生載具</Chinese>
             <Italian>Rigenera il veicolo</Italian>
+            <Turkish>Aracı Yeniden Doğur</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_RespawnVehicle_Tooltip">
             <English>Selects where the vehicle will respawn when it is destroyed.</English>
@@ -93,6 +100,7 @@
             <Chinesesimp>选择车辆被摧毁后的重生位置。</Chinesesimp>
             <Chinese>選擇車輛被摧毀後的重生位置。</Chinese>
             <Italian>Seleziona dove si rigenera il veicolo quando viene distrutto.</Italian>
+            <Turkish>Araç Yok Olduğunda Nerede Yeniden Doğacak</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_States">
             <English>States</English>
@@ -104,6 +112,7 @@
             <Chinesesimp>状态</Chinesesimp>
             <Chinese>狀態</Chinese>
             <Italian>Stati</Italian>
+            <Turkish>Devletler</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_LocalExec">
             <English>Local Exec. This code will be executed in the unscheduled environment on this machine only.</English>
@@ -112,6 +121,7 @@
             <Chinesesimp>本地执行。这段代码将只在本机的非计划环境中执行。</Chinesesimp>
             <Chinese>本地執行。這段代碼將只在本機的非計劃環境中執行。</Chinese>
             <Italian>Esecutivo locale Questo codice verrà eseguito solo nell'ambiente non pianificato su questa macchina.</Italian>
+            <Turkish>Yerel kod, yalnızca bu makinede programlanmamış ortamda yürütülecektir.</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_TargetExec">
             <English>Target Exec. This code will be executed in the unscheduled environment on the machine where this entity is local.</English>
@@ -120,6 +130,7 @@
             <Chinesesimp>目标执行。这段代码将在这个实体所在的机器上的非计划环境中执行。</Chinesesimp>
             <Chinese>目標執行。這段代碼將在這個實體所在的機器上的非計劃環境中執行。</Chinese>
             <Italian>Esecutivo Target Questo codice verrà eseguito nell'ambiente non pianificato sulla macchina in cui questa entità è locale.</Italian>
+            <Turkish>Hedef kod, bu varlığın yerel olduğu makinedeki programlanmamış ortamda yürütülür.</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_GlobalExec">
             <English>Global Exec. This code will be executed in the unscheduled environment on all machines (server and clients).</English>
@@ -128,6 +139,7 @@
             <Chinesesimp>全局执行。这段代码将在所有机器（服务器和客户端）的非计划环境中执行。</Chinesesimp>
             <Chinese>全局執行。這段代碼將在所有機器（服務器和客戶端）的非計劃環境中執行。</Chinese>
             <Italian>Esecutivo globale Questo codice verrà eseguito nell'ambiente non pianificato su tutte le macchine (server e client).</Italian>
+            <Turkish>Küresel kod, programlanmamış ortamda tüm makinelerde (sunucu ve istemciler) yürütülecektir.</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_ExecObject_Tooltip">
             <English>The variable "_this" refers to this object.</English>
@@ -136,6 +148,7 @@
             <Chinesesimp>变量"_this"指的是这个对象。</Chinesesimp>
             <Chinese>變量"_this"指的是這個對象。</Chinese>
             <Italian>La variabile "_this" fa riferimento a questo oggetto.</Italian>
+            <Turkish>"_this" değişkeni bu nesneyi ifade eder.</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_ExecGroup_Tooltip">
             <English>The variable "_this" refers to this group.</English>
@@ -144,6 +157,7 @@
             <Chinesesimp>变量"_this"指的是这个小组。</Chinesesimp>
             <Chinese>變量"_this"指的是這個小組。</Chinese>
             <Italian>La variabile "_this" si riferisce a questo gruppo.</Italian>
+            <Turkish>"_this" değişkeni bu Grubu ifade eder.</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Timeout">
             <English>Timeout (s)</English>
@@ -158,6 +172,7 @@
             <Korean>시간 초과 (초)</Korean>
             <Chinesesimp>超时(秒)</Chinesesimp>
             <Chinese>超時(秒)</Chinese>
+            <Turkish>Zaman aşımı (s)</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Timeout_Tooltip">
             <English>The time (in seconds) between waypoint condition satisfaction and waypoint completion.</English>
@@ -172,6 +187,7 @@
             <Korean>웨이포인트 조건 만족 및 웨이포인트 완료 사이의 시간 (초)</Korean>
             <Chinesesimp>满足路径点条件与路径点完成之间的时间（以秒为单位）。</Chinesesimp>
             <Chinese>滿足路徑點條件與路徑點完成之間的時間（以秒為單位）。</Chinese>
+            <Turkish>Waypoint koşulunun yerine getirilmesi ve Waypointin tamamlanması arasındaki süre (saniye cinsinden).</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Sensors">
             <English>Sensors</English>
@@ -186,6 +202,7 @@
             <Korean>센서</Korean>
             <Chinesesimp>传感器</Chinesesimp>
             <Chinese>傳感器</Chinese>
+            <Turkish>Sensörler</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_ChangeSide">
             <English>Change Side</English>
@@ -200,6 +217,7 @@
             <Korean>진영 변경</Korean>
             <Chinesesimp>更改阵营</Chinesesimp>
             <Chinese>更改陣營</Chinese>
+            <Turkish>Taraf Değiştir</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_ChangeSkills">
             <English>Change Skills</English>
@@ -214,6 +232,7 @@
             <Korean>기술 변경</Korean>
             <Chinesesimp>更改技能</Chinesesimp>
             <Chinese>更改技能</Chinese>
+            <Turkish>Becerileri Değiştir</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Skills">
             <English>Skills</English>
@@ -228,6 +247,7 @@
             <Korean>기술</Korean>
             <Chinesesimp>技能</Chinesesimp>
             <Chinese>技能</Chinese>
+            <Turkish>Beceriler</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_ChangeTraits">
             <English>Change Traits</English>
@@ -242,6 +262,7 @@
             <Korean>특성 변경</Korean>
             <Chinesesimp>更改角色</Chinesesimp>
             <Chinese>更改角色</Chinese>
+            <Turkish>Özellikleri Değiştir</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Traits">
             <English>Traits</English>
@@ -256,6 +277,7 @@
             <Korean>특성</Korean>
             <Chinesesimp>角色</Chinesesimp>
             <Chinese>角色</Chinese>
+            <Turkish>Özellikler</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_MedicalTraining">
             <English>Medical Training</English>
@@ -270,6 +292,7 @@
             <Korean>의료 훈련</Korean>
             <Chinesesimp>医疗培训</Chinesesimp>
             <Chinese>醫療培訓</Chinese>
+            <Turkish>Tıbbi Eğitim</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_EngineeringSkill">
             <English>Engineering Skill</English>
@@ -284,6 +307,7 @@
             <Korean>공업 기술</Korean>
             <Chinesesimp>工兵技能</Chinesesimp>
             <Chinese>工兵技能</Chinese>
+            <Turkish>Mühendislik Yeteneği</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Doctor">
             <English>Doctor</English>
@@ -298,6 +322,7 @@
             <Korean>의사</Korean>
             <Chinesesimp>军医</Chinesesimp>
             <Chinese>軍醫</Chinese>
+            <Turkish>Doktor</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_AdvEngineer">
             <English>Adv. Engineer</English>
@@ -312,6 +337,7 @@
             <Korean>고급 엔지니어</Korean>
             <Chinesesimp>高级工兵</Chinesesimp>
             <Chinese>高級工兵</Chinese>
+            <Turkish>Gelişmiş Mühendis</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_EOD">
             <English>EOD</English>
@@ -326,6 +352,7 @@
             <Chinesesimp>爆破专家</Chinesesimp>
             <Chinese>爆破專家</Chinese>
             <Italian>Artificiere</Italian>
+            <Turkish>EOD</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_ChangeAbilities">
             <English>Change Abilities</English>
@@ -338,6 +365,7 @@
             <Chinesesimp>更改属性</Chinesesimp>
             <Chinese>更改屬性</Chinese>
             <Italian>Cambia abilità</Italian>
+            <Turkish>Yetenekleri Değiştir</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_Abilities">
             <English>Abilities</English>
@@ -350,6 +378,7 @@
             <Chinesesimp>属性</Chinesesimp>
             <Chinese>屬性</Chinese>
             <Italian>Abilità</Italian>
+            <Turkish>Yetenekler</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_OpenAttributesDisplay">
             <English>Open Attributes Display</English>
@@ -359,6 +388,7 @@
             <Chinesesimp>打开属性显示</Chinesesimp>
             <Chinese>打開屬性顯示</Chinese>
             <Italian>Apri la visualizzazione degli attributi</Italian>
+            <Turkish>Özellikler Ekranını Aç</Turkish>
         </Key>
         <Key ID="STR_ZEN_Attributes_OpenAttributesDisplay_Description">
             <English>Opens the Zeus attributes display for the selected entity.\nWhen multiple entities are selected (i.e. due to selecting a group), the hovered entity will be used.</English>
@@ -367,6 +397,7 @@
             <Chinesesimp>打开所选实体的Zeus属性显示。当选择多个实体时（即由于选择了一个小组），将使用悬停的实体。</Chinesesimp>
             <Chinese>打開所選實體的Zeus屬性顯示。當選擇多個實體時（即由於選擇了一個小組），將使用懸停的實體。</Chinese>
             <Italian>Apre la visualizzazione degli attributi di Zeus per l'entità selezionata.\nQuando vengono selezionate più entità (ad es. a causa della selezione di un gruppo), verrà utilizzata l'entità al passaggio del mouse.</Italian>
+            <Turkish>Seçili varlık için Zeus nitelikleri ekranını açar.\nBirden çok varlık seçildiğinde (yani bir grup seçilmesi nedeniyle), üzerine gelinen varlık kullanılır.</Turkish>
         </Key>
     </Package>
 </Project>
